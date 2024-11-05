@@ -8,7 +8,6 @@ This repository contains a ROS2-compatible mobile robot project equipped with a 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files and Directories](#files-and-directories)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
