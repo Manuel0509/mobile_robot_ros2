@@ -1,0 +1,24 @@
+[0.157s] Invoking command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/yousif/mobile_robot_ros2/build/mobile_robot_description -- -j8 -l8
+[1.297s] Invoked command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/yousif/mobile_robot_ros2/build/mobile_robot_description -- -j8 -l8
+[1.337s] Invoking command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/yousif/mobile_robot_ros2/build/mobile_robot_description
+[1.348s] -- Install configuration: ""
+[1.362s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//urdf
+[1.387s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//urdf/mobile_robot.urdf
+[1.388s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//launch
+[1.398s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//launch/display.launch.xml
+[1.400s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/package_run_dependencies/mobile_robot_description
+[1.401s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/parent_prefix_path/mobile_robot_description
+[1.402s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/ament_prefix_path.sh
+[1.403s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/ament_prefix_path.dsv
+[1.403s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/path.sh
+[1.404s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/path.dsv
+[1.405s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.bash
+[1.405s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.sh
+[1.406s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.zsh
+[1.406s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.dsv
+[1.407s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/package.dsv
+[1.421s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/packages/mobile_robot_description
+[1.422s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/cmake/mobile_robot_descriptionConfig.cmake
+[1.422s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/cmake/mobile_robot_descriptionConfig-version.cmake
+[1.422s] -- Up-to-date: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/package.xml
+[1.429s] Invoked command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/yousif/mobile_robot_ros2/build/mobile_robot_description

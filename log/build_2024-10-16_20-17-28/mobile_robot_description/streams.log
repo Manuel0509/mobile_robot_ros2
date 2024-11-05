@@ -1,0 +1,41 @@
+[0.052s] Invoking command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/yousif/mobile_robot_ros2/src/mobile_robot_description -DCMAKE_INSTALL_PREFIX=/home/yousif/mobile_robot_ros2/install/mobile_robot_description
+[2.314s] -- The C compiler identification is GNU 11.4.0
+[2.740s] -- The CXX compiler identification is GNU 11.4.0
+[2.774s] -- Detecting C compiler ABI info
+[3.036s] -- Detecting C compiler ABI info - done
+[3.047s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.047s] -- Detecting C compile features
+[3.081s] -- Detecting C compile features - done
+[3.095s] -- Detecting CXX compiler ABI info
+[3.277s] -- Detecting CXX compiler ABI info - done
+[3.287s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.287s] -- Detecting CXX compile features
+[3.288s] -- Detecting CXX compile features - done
+[3.418s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.732s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.040s] -- Configuring done
+[4.043s] -- Generating done
+[4.044s] -- Build files have been written to: /home/yousif/mobile_robot_ros2/build/mobile_robot_description
+[4.050s] Invoked command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/yousif/mobile_robot_ros2/src/mobile_robot_description -DCMAKE_INSTALL_PREFIX=/home/yousif/mobile_robot_ros2/install/mobile_robot_description
+[4.051s] Invoking command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/yousif/mobile_robot_ros2/build/mobile_robot_description -- -j8 -l8
+[4.095s] Invoked command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/yousif/mobile_robot_ros2/build/mobile_robot_description -- -j8 -l8
+[4.130s] Invoking command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/yousif/mobile_robot_ros2/build/mobile_robot_description
+[4.139s] -- Install configuration: ""
+[4.139s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//urdf
+[4.139s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description//urdf/my_robot.urdf
+[4.139s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/package_run_dependencies/mobile_robot_description
+[4.139s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/parent_prefix_path/mobile_robot_description
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/ament_prefix_path.sh
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/ament_prefix_path.dsv
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/path.sh
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/environment/path.dsv
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.bash
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.sh
+[4.140s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.zsh
+[4.141s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/local_setup.dsv
+[4.141s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/package.dsv
+[4.141s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/ament_index/resource_index/packages/mobile_robot_description
+[4.141s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/cmake/mobile_robot_descriptionConfig.cmake
+[4.142s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/cmake/mobile_robot_descriptionConfig-version.cmake
+[4.142s] -- Installing: /home/yousif/mobile_robot_ros2/install/mobile_robot_description/share/mobile_robot_description/package.xml
+[4.144s] Invoked command in '/home/yousif/mobile_robot_ros2/build/mobile_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yousif/example_ros2/install/my_py_pkg:/home/yousif/ros2_ws_test/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/yousif/mobile_robot_ros2/build/mobile_robot_description
